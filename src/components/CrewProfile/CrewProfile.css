@@ -1,0 +1,126 @@
+.margin_30 {
+    margin: 0 30%;
+}
+
+.profile_map_path {
+    text-align: left;
+    padding-left: 15px;
+}
+
+.profile_map_path p {
+    font-size: 22px;
+    margin: 75px 0 0 0;
+}
+
+.color_pink {
+    color: rgb(255, 12, 102);
+}
+
+.color_grey {
+    color: rgb(134, 134, 134);
+}
+
+.color_darkgrey {
+    color: rgb(79, 75, 74);
+}
+.profile_img img {
+    height: 335px;
+    width: auto;
+    float: none;
+    margin: 160px 0 0 0;
+}
+
+.profile_name h1 {
+    font-size: 58px;
+    text-transform: uppercase;
+    margin: 80px 0 0 0;
+}
+
+.profile_description p {
+    font-size: 22px;
+    margin: 80px 0 0 0;
+    padding-bottom: 130px;
+}
+
+.profile_service {
+    background-color: rgb(234, 234, 234);
+    width: 100%;
+}
+
+.profile_subtitle {
+    font-size: 48px;
+    letter-spacing: 4px;
+    padding: 100px 0 80px 0;
+    margin: 0;
+}
+
+.profile_service p {
+    font-size: 22px;
+    margin: 0;
+    padding: 65px 0 80px 0;
+}
+
+.profile_separator {
+    width: 30%;
+    min-width: 300px;
+    margin: 0 auto;
+    border-top: 2px solid rgb(79, 75, 74);
+}
+
+.profile_credits p {
+    font-size: 22px;
+    text-transform: uppercase;
+    padding: 65px 0 80px 0;
+}
+
+.profile_contact_mail {
+    padding-top: 85px;
+}
+
+.profile_contact_text {
+    display: inline;
+    vertical-align: top;
+    font-size: 24px;
+    margin: 0;
+    cursor: pointer;
+}
+
+.profile_contact_icon {
+    margin: 0 25px 0 0;
+    float: none;
+    height: 35px;
+    width: 35px;
+}
+
+.profile_contact_web {
+    padding-top: 75px;
+    padding-bottom: 65px;
+}
+
+.profile_social {
+    margin-top: 45px;
+    margin-bottom: 340px;
+}
+
+.profile_social div {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin: 0 25px;
+    cursor: pointer;
+}
+
+.profile_vimeo {
+    background: url(../../images/vimeoDark.png);
+}
+
+.profile_twiter {
+    background: url(../../images/twiterDark.png);
+}
+
+.profile_linkedin {
+    background: url(../../images/liDark.png);
+}

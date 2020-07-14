@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/new-look/static/css/main.48f324ae.chunk.css",
-    "main.js": "/new-look/static/js/main.920d49b6.chunk.js",
-    "main.js.map": "/new-look/static/js/main.920d49b6.chunk.js.map",
-    "runtime-main.js": "/new-look/static/js/runtime-main.7e747f1a.js",
-    "runtime-main.js.map": "/new-look/static/js/runtime-main.7e747f1a.js.map",
-    "static/js/2.567cc440.chunk.js": "/new-look/static/js/2.567cc440.chunk.js",
-    "static/js/2.567cc440.chunk.js.map": "/new-look/static/js/2.567cc440.chunk.js.map",
-    "index.html": "/new-look/index.html",
-    "precache-manifest.65657316639399abae235fcbe04eacfd.js": "/new-look/precache-manifest.65657316639399abae235fcbe04eacfd.js",
-    "service-worker.js": "/new-look/service-worker.js",
-    "static/css/main.48f324ae.chunk.css.map": "/new-look/static/css/main.48f324ae.chunk.css.map",
-    "static/js/2.567cc440.chunk.js.LICENSE.txt": "/new-look/static/js/2.567cc440.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/new-look/static/media/logo.2ada4060.png",
-    "static/media/CrewList.css": "/new-look/static/media/portfolio-cover.d5e4e86c.jpg",
-    "static/media/CrewItem.css": "/new-look/static/media/profile_img.cdb5b47f.jpg",
-    "static/media/Footer.css": "/new-look/static/media/youtube_icon.39f603bd.png"
+    "main.css": "/newlook/static/css/main.49f92e51.chunk.css",
+    "main.js": "/newlook/static/js/main.0089d59a.chunk.js",
+    "main.js.map": "/newlook/static/js/main.0089d59a.chunk.js.map",
+    "runtime-main.js": "/newlook/static/js/runtime-main.b81f74a2.js",
+    "runtime-main.js.map": "/newlook/static/js/runtime-main.b81f74a2.js.map",
+    "static/js/2.567cc440.chunk.js": "/newlook/static/js/2.567cc440.chunk.js",
+    "static/js/2.567cc440.chunk.js.map": "/newlook/static/js/2.567cc440.chunk.js.map",
+    "index.html": "/newlook/index.html",
+    "precache-manifest.f968bca8df3b9df878f24ae7eb76468a.js": "/newlook/precache-manifest.f968bca8df3b9df878f24ae7eb76468a.js",
+    "service-worker.js": "/newlook/service-worker.js",
+    "static/css/main.49f92e51.chunk.css.map": "/newlook/static/css/main.49f92e51.chunk.css.map",
+    "static/js/2.567cc440.chunk.js.LICENSE.txt": "/newlook/static/js/2.567cc440.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/newlook/static/media/logo.2ada4060.png",
+    "static/media/CrewList.css": "/newlook/static/media/portfolio-cover.d5e4e86c.jpg",
+    "static/media/CrewItem.css": "/newlook/static/media/profile_img.cdb5b47f.jpg",
+    "static/media/Footer.css": "/newlook/static/media/youtube_icon.39f603bd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e747f1a.js",
+    "static/js/runtime-main.b81f74a2.js",
     "static/js/2.567cc440.chunk.js",
-    "static/css/main.48f324ae.chunk.css",
-    "static/js/main.920d49b6.chunk.js"
+    "static/css/main.49f92e51.chunk.css",
+    "static/js/main.0089d59a.chunk.js"
   ]
 }

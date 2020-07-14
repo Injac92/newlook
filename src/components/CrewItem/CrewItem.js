@@ -1,11 +1,14 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 import "./CrewItem.css"
 
 export default function CrewItem() {
     return (
         <div className="crew_item_container">
-            <div className="crew_item_img"></div>
+            <Link to="/profile">
+                <div className="crew_item_img"></div>
+            </Link>
             <div className="crew_item_descr">
                 <h3>Nikola Stefanovic</h3>
                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Donec quam felis, ultricies nec, pellentesque.</p>

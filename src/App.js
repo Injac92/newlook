@@ -1,10 +1,8 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 import {
-  BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 
 import Header from "./components/Header/Header.js"
@@ -15,7 +13,6 @@ import CrewProfile from "./components/CrewProfile/CrewProfile.js";
 import Error from "./components/Error.js"
 
 import './App.css';
-import { render } from 'react-dom';
 
 
 function App () {
@@ -47,14 +44,6 @@ function App () {
         />
         <Route component={Error}/>
       </Switch>
-    
-    // <div className="App">
-    //   <Header/>
-    //   <Navigation/>
-    //   {/* <CrewList/> */}
-    //   <CrewProfile/>
-    //   <Footer/>
-    // </div>
   );
 }
 

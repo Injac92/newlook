@@ -119,3 +119,12 @@
         margin-left: 20px;
     }
 }
+
+@media only screen and (max-width: 480px) {
+
+    .crew_item_descr {
+        border-left: none;
+        border-bottom: 2px solid rgb(255, 12, 102);
+        padding-left: 30px;
+    }
+}

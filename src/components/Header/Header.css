@@ -84,7 +84,6 @@ img {
 
 @media only screen and (max-width: 768px) {
     .header {
-        background-color: yellow;
         height: 150px;
         padding-bottom: 0;
     }
